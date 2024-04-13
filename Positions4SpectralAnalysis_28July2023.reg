@@ -1,0 +1,18 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+box(23:13:47.0202,+61:31:36.479,786.123",791.937",0.10668871) # color=magenta text={ForAverageSpectra}
+circle(23:14:06.5640,+61:32:30.599,7.000") # color=magenta width=2 text={Circle 1}
+circle(23:13:49.5887,+61:32:26.300,7.000") # color=magenta width=2 text={Circle 2}
+circle(23:13:31.8592,+61:33:49.911,7.000") # color=magenta width=2 text={Circle 3}
+circle(23:13:34.2674,+61:32:41.180,7.000") # color=magenta width=2 text={Circle 4}
+circle(23:13:16.7089,+61:32:53.992,7.000") # color=magenta width=2 text={Circle 5}
+circle(23:13:59.3925,+61:31:03.182,7.000") # color=magenta width=2 text={Circle 6}
+circle(23:13:44.9604,+61:31:16.336,7.000") # color=magenta width=2 text={Circle 7}
+circle(23:13:30.0031,+61:31:23.664,7.000") # color=magenta width=2 text={Circle 8}
+circle(23:13:19.0716,+61:31:26.504,7.000") # color=magenta width=2 text={Circle 9}
+circle(23:13:44.1896,+61:28:24.984,7.000") # color=magenta width=2 text={Circle 11}
+circle(23:13:29.8753,+61:30:14.058,7.000") # color=magenta width=2 text={Circle 10}
+circle(23:13:30.6456,+61:29:00.148,7.000") # color=magenta width=2 text={Circle 12}
+circle(23:13:16.5038,+61:30:06.257,7.000") # color=magenta width=2 text={Circle 13}
+circle(23:13:08.4873,+61:31:18.364,7.000") # color=magenta width=2 text={Circle 14}
